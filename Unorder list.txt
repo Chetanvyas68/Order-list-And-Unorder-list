@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>Cold Drink</h2>
+
+<ul style="list-style-type:disc;">
+  <li>Coca-cola</li>
+  <li>Pepsi</li>
+  <li>Maza</li>
+</ul>  
+
+</body>
+</html>
+

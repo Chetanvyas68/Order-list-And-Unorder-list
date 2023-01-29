@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>Ice-cream</h2>
+
+<ol type="A">
+  <li>American Dryfruit</li>
+  <li>Vanila</li>
+  <li>Chocolate</li>
+</ol>  
+
+</body>
+</html>
